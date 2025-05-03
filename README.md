@@ -7,25 +7,6 @@ My mission is to create seamless connections between humans and technology throu
 
 ---
 
-## 🚀 Key Projects
-
-* **ChatGPT-json**
-  A seamless interface to generate structured JSON responses via ChatGPT API, enabling easy integration into diverse systems.
-
-* **my-expressive-writing**
-  A self-expression support tool powered by Python, enhancing reflective writing and cognitive organization using NLP.
-
-* **AudioProcessing**
-  Jupyter-based toolkits for advanced audio preprocessing, feature extraction, and analysis — supporting ML and AI workflows.
-
-* **japanese-numeral-py**
-  A practical Python utility library for converting complex Japanese numeral expressions into integers.
-
-* **LINEbot-GPT-journal**
-  An AI-powered journaling chatbot using GPT and LINE Messaging API, fostering natural and engaging user interactions.
-
----
-
 ## 🧩 Tech Stack & Skills
 
 **Frontend**
