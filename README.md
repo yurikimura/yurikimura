@@ -53,7 +53,3 @@ My mission is to create seamless connections between humans and technology throu
 I’m always eager to connect with fellow engineers, researchers, and innovators.
 Feel free to reach out for collaborations, research opportunities, or just to say hello!
 
----
-
-[![yurikimura's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yurikimura&theme=tokyo-night&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
